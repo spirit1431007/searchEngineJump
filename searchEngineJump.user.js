@@ -1,4 +1,4 @@
-​// ==UserScript==
+// ==UserScript==
 // @name           searchEngineJump 搜索引擎快捷跳转
 // @author         NLF&锐经(修改) & iqxin(再修改)
 // @contributor    iqxin
